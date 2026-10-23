@@ -30,19 +30,21 @@ a {
 }
 
 img {
-  display: block;
   width: 75vw;
   margin-top: 1vh;
   margin: 2rem;
+  width: 900px;
+  display: block;
+  justify-self: center;
 }
 
 p {
   /* width: 50vw; */
   /* text-align: center; */
   margin-top: 5%;
-  justify-content: center;
   text-align: justify;
-  align-items: center;
+  width: 900px;
+  display: block;
   justify-self: center;
 }
 
