@@ -5,7 +5,6 @@
 
 header {
   position: fixed;
-  width: 100vw;
   height: auto;
   margin-top: 0%;
   font-family: "Times New Roman", Times, serif;
@@ -21,6 +20,7 @@ body {
   background-color: rgb(255, 250, 230);
   font-size: 24px;
   height: 80vh;
+  width: 768px;
   color: rgb(106, 125, 61);
   font-family: "miller-banner", serif;
   font-weight: 400;
@@ -44,7 +44,7 @@ img {
 }
 
 p {
-  width: 50vw;
+  /* width: 50vw; */
   text-align: center;
   margin-top: 5%;
   justify-content: center;
