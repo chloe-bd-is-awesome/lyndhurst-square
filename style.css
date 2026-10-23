@@ -5,15 +5,11 @@
 
 header {
   position: fixed;
-  height: auto;
+  width: 900px;
   margin-top: 0%;
   font-family: "Times New Roman", Times, serif;
   height: fit-content;
-  margin: 0%;
-  margin-left: 1%;
-  letter-spacing: 1px;
   vertical-align: text-bottom;
-  font-size: 2vh;
 }
 
 body {
@@ -58,7 +54,7 @@ p {
 }
 
 .header {
-  width: 100vw;
+  width: 900px;
   display: block;
   justify-self: center;
 }
