@@ -37,8 +37,9 @@ img {
   display: block;
   justify-content: center;
   align-items: center;
-  width: 98vw;
+  width: 75vw;
   margin-top: 1vh;
+  justify-self: center;
 }
 
 p {
