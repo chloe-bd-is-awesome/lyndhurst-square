@@ -41,6 +41,7 @@ img {
 p {
   /* width: 50vw; */
   /* text-align: center; */
+  margin: 2rem;
   margin-top: 5%;
   text-align: justify;
   width: 900px;
