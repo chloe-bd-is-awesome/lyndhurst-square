@@ -20,7 +20,7 @@ body {
   background-color: rgb(255, 250, 230);
   font-size: 24px;
   height: 80vh;
-  width: 790px;
+  width: 900px;
   color: rgb(106, 125, 61);
   font-family: "miller-banner", serif;
   font-weight: 400;
@@ -38,7 +38,7 @@ img {
   display: block;
   justify-content: center;
   align-items: center;
-  width: 25vw;
+  width: 75vw;
   margin-top: 1vh;
   justify-self: center;
 }
@@ -58,7 +58,7 @@ p {
 }
 
 .header {
-  width: 40vw;
+  width: 100vw;
   display: block;
   justify-self: center;
 }
