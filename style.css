@@ -32,11 +32,9 @@ a {
 
 img {
   display: block;
-  justify-content: center;
-  align-items: center;
   width: 75vw;
   margin-top: 1vh;
-  justify-self: center;
+  margin: 2rem;
 }
 
 p {
