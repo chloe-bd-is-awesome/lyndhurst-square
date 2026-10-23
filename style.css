@@ -19,12 +19,13 @@ header {
 
 body {
   background-color: rgb(255, 250, 230);
-  font-size: 16px;
+  font-size: 24px;
   height: 80vh;
   color: rgb(106, 125, 61);
   font-family: "miller-banner", serif;
   font-weight: 400;
   font-style: normal;
+  margin: 3rem;
 }
 
 a {
@@ -37,14 +38,18 @@ img {
   display: block;
   justify-content: center;
   align-items: center;
-  width: 75vw;
+  width: 25vw;
   margin-top: 1vh;
   justify-self: center;
 }
 
 p {
+  width: 50vw;
   text-align: center;
-  margin-top: 10%;
+  margin-top: 5%;
+  justify-content: center;
+  align-items: center;
+  justify-self: center;
 }
 
 .text-swap:hover .default-text {
