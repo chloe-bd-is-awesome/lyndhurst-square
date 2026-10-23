@@ -1,0 +1,67 @@
+/* Basic page setup */
+* {
+  box-sizing: border-box;
+}
+
+header {
+  position: fixed;
+  width: 100vw;
+  height: auto;
+  margin-top: 0%;
+  font-family: "Times New Roman", Times, serif;
+  height: fit-content;
+  margin: 0%;
+  margin-left: 1%;
+  letter-spacing: 1px;
+  vertical-align: text-bottom;
+  font-size: 2vh;
+}
+
+body {
+  background-color: rgb(255, 250, 230);
+  font-size: 16px;
+  height: 80vh;
+  color: rgb(106, 125, 61);
+  font-family: "miller-banner", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0rem;
+  font-size: 2vh;
+}
+
+img {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: 98vw;
+  margin-top: 1vh;
+}
+
+p {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.text-swap:hover .default-text {
+  font-style: italic;
+}
+
+.header {
+  width: 40vw;
+  display: block;
+  justify-self: center;
+}
+
+.pinboard {
+  justify-content: space-around;
+  display: grid;
+  grid-template-columns: repeat(3, 10vw);
+  height: max-content;
+  width: max-content;
+  justify-self: center;
+  vertical-align: text-bottom;
+}
